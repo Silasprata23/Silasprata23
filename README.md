@@ -41,7 +41,7 @@ E aí, tudo bem? Eu sou o **Silas**, estudante de Desenvolvimento de Sistemas no
 
 ## 📊 GitHub Stats
 
-<div align="left"> 
+<div align="center"> 
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Silasprata23&theme=transparent&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
