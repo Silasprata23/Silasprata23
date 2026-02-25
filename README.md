@@ -10,8 +10,9 @@ E aí, tudo bem? Eu sou o **Silas**, estudante de Desenvolvimento de Sistemas no
 
 <p align="left">
   <a href="https://github.com/Silasprata23">
-    <img src="  https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a> 
+  <br/>
   <a href="https://www.linkedin.com/in/silas-prata-pereira-8b636534a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -40,14 +41,17 @@ E aí, tudo bem? Eu sou o **Silas**, estudante de Desenvolvimento de Sistemas no
 
 ## 📊 GitHub Stats
 
-
-
-<p align="left">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Silasprata23&theme=transparent&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+<div align="left"> 
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Silasprata23&theme=transparent&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Silasprata23&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</p>
+</div>
+
+
+
+
+
 
 
