@@ -43,7 +43,7 @@ E aí, tudo bem? Eu sou o **Silas**, estudante de Desenvolvimento de Sistemas no
 
 <div align="center"> 
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Silasprata23&theme=transparent&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Silasprata23&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
